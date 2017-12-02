@@ -8,7 +8,7 @@ Simple write a message and send to broadcast to everyone. Write "@iduser message
 
 ### Prerequisites
 
-* [ActiveMQ 5.15.2](activemq.apache.org) - Message broker and their libs
+* [ActiveMQ 5.15.2](activemq.apache.org) - Message broker and libs
 * Java Swing - If GUI is needed (sorry)
 * JMS (Java Message Service) - Java Messaging API 
 
